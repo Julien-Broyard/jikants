@@ -102,9 +102,9 @@
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
 "@types/pino@^5.8.7":
-  version "5.8.7"
-  resolved "https://registry.yarnpkg.com/@types/pino/-/pino-5.8.7.tgz#92064264a181a7fe1aa5b8d880d2f9195751ee29"
-  integrity sha512-2YLu7AhUjH6Cuf4N9MXrrxCGfJLgcScfNDWImGZz6VGFCA5emVBIu5uHaNQ1dJKtV3ZNOqkkB8XbbZwARRSXHw==
+  version "5.8.8"
+  resolved "https://registry.yarnpkg.com/@types/pino/-/pino-5.8.8.tgz#930eb30f1f1eb76b97792647477aab59e5852574"
+  integrity sha512-SxAdLtEpPkVUdnI3iCUjyFC7WVLFiebyzqypvkuJVo7dyK6BPuQ4lTOuZRKpbEdgG386l5HgfqpymL3oWLOUXg==
   dependencies:
     "@types/node" "*"
     "@types/sonic-boom" "*"
