@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/got": "^9.6.0",
     "@types/pino": "^5.8.8",
-    "husky": "^2.5.0",
+    "husky": "^3.0.0",
     "tslint": "^5.18.0",
     "tslint-config-prettier": "^1.18.0",
     "typedoc": "^0.14.2",
