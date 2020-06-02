@@ -16,7 +16,7 @@
     "pino": "^5.13.2",
     "pino-pretty": "^3.2.1",
     "prettier": "^1.18.2",
-    "quick-lru": "^4.0.1"
+    "quick-lru": "^5.1.1"
   },
   "description": "A wrapper for the jikan REST API.",
   "devDependencies": {
