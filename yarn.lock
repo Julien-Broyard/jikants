@@ -887,10 +887,10 @@ quick-format-unescaped@^3.0.2:
   resolved "https://registry.yarnpkg.com/quick-format-unescaped/-/quick-format-unescaped-3.0.2.tgz#0137e94d8fb37ffeb70040535111c378e75396fb"
   integrity sha512-FXTaCkwvpIlkdKeGDNgcq07SXWS383noQUuZjvdE1QcTt+eLuqof6/BDiEPqB59FWLie/l91+HtlJSw7iCViSA==
 
-quick-lru@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
-  integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
+quick-lru@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-6.0.0.tgz#c5a245a773c702694870828e5f09b28f7af087db"
+  integrity sha512-kQ3ACYYIALMi7x8xvMU+qSF6N6baMZms8/q3dn2XFiORhFrLbpR6vTRNGR80HwlakWSoY4RnGoCJWUgnyH6zZQ==
 
 read-pkg@^5.1.1:
   version "5.1.1"
